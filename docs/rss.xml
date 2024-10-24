@@ -1,2 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Meekdai.github.io/Gmeek-template</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Meekdai.github.io/Gmeek-template</link></image><lastBuildDate>Thu, 14 Mar 2024 09:17:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>请接着之后的安装步骤执行</title><link>https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</link><description>如果你点击了`READM.md`的链接后，看到了这个页面，请继续之后的安装步骤执行。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</guid><pubDate>Thu, 14 Mar 2024 09:15:10 +0000</pubDate></item><item><title>这是Gmeek模板仓库</title><link>https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</link><description>通过这个模板创建库，可以大大减少部署Gmeek博客的配置步骤。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</guid><pubDate>Wed, 20 Dec 2023 07:42:24 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://goldthreewater.github.io/ml-overview.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://goldthreewater.github.io/ml-overview.github.io</link></image><lastBuildDate>Thu, 24 Oct 2024 02:44:27 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>ai-overview</title><link>https://goldthreewater.github.io/ml-overview.github.io/post/ai-overview.html</link><description># 技术方向&#13;
+&#13;
+## 计算机视觉 (CV)&#13;
+&#13;
+### 技术路线&#13;
+&#13;
+| 技术方向 | 具体应用 |&#13;
+| --- | --- |&#13;
+| 图像处理 | - 图像分类&lt;br&gt;- 目标检测&lt;br&gt;- 目标跟踪&lt;br&gt;- 图像分割&lt;br&gt;- 超分辨率重建&lt;br&gt;- 图像生成&lt;br&gt;- OCR&lt;br&gt;- 图像搜索&lt;br&gt;- 双目多目视觉&lt;br&gt;- SLAM与机器人&lt;br&gt;- 道路感知&lt;br&gt;- 三维点云和3D重建 |&#13;
+| 人体技术 | - 指纹识别&lt;br&gt;- 手势识别&lt;br&gt;- 姿态识别&lt;br&gt;- 动作检测&lt;br&gt;- 人体换装&lt;br&gt;- 多视角姿态融合 |&#13;
+| 人脸技术 | - 人脸检测&lt;br&gt;- 人脸检索&lt;br&gt;- 表情识别&lt;br&gt;- 活体检测 |&#13;
+&#13;
+&#13;
+## 自然语言处理 (NLP)&#13;
+&#13;
+### 技术路线&#13;
+&#13;
+| 基础技术 | 应用方向 |&#13;
+| --- | --- |&#13;
+| - 词法分析&lt;br&gt;- 句法分析&lt;br&gt;- 语义分析&lt;br&gt;- 语篇分析&lt;br&gt;- 知识图谱&lt;br&gt;- 语言认知模型&lt;br&gt;- 语言知识表示 | - 机器翻译&lt;br&gt;- 信息检索&lt;br&gt;- 情感分析&lt;br&gt;- 自动问答&lt;br&gt;- 自动文摘&lt;br&gt;- 信息抽取&lt;br&gt;- 信息推荐与过滤&lt;br&gt;- 文本分类与聚类&lt;br&gt;- 文本生成 |&#13;
+&#13;
+## 自动语音识别 (ASR)&#13;
+&#13;
+### 技术路线&#13;
+&#13;
+| 基础技术 | 应用方向 |&#13;
+| --- | --- |&#13;
+| - 音频分类/场景分析&lt;br&gt;- 语音编码&lt;br&gt;- 语音增强/分离&lt;br&gt;- 语音识别&lt;br&gt;- 语音合成&lt;br&gt;- 声纹识别&lt;br&gt;- 关键词检出&lt;br&gt;- 情感/情绪识别&lt;br&gt;- 语音伪造/鉴伪 | - 语音助手&lt;br&gt;- 电话客服系统&lt;br&gt;- 语音导航&lt;br&gt;- 语音转文字&lt;br&gt;- 语音命令控制&lt;br&gt;- 语音安全认证&lt;br&gt;- 语音情感分析&lt;br&gt;- 语音内容审核&lt;br&gt;- 语音交互界面 |。</description><guid isPermaLink="true">https://goldthreewater.github.io/ml-overview.github.io/post/ai-overview.html</guid><pubDate>Thu, 24 Oct 2024 02:44:04 +0000</pubDate></item></channel></rss>
